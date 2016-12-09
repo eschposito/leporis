@@ -1,0 +1,3 @@
+Z-LICENSE
+The license is this: this work is free to use in whatever you want,
+but please include the CREDITS.TXT file (better if updated) with your work.
