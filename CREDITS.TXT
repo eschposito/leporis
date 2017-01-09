@@ -7,8 +7,9 @@ CREDITS AND THANKS TO:
 - Zeh Fernando for Perfect DOS VGA 437 font (and its license!): http://zehfernando.com/2015/revisiting-vga-fonts/
 - Adam Moore (Laemeur) for Less Perfect DOS VGA font: http://laemeur.sdf.org/fonts/
 - Starting Electronics for Arduino Ethernet Shield Web Server Tutorial (Part 9): https://startingelectronics.org/tutorials/arduino/ethernet-shield-web-server-tutorial/AJAX-read-switches-analog/
+- Joseph Myers for his javascript implementation of MD5 algorithm: http://www.myersdaily.org/joseph/javascript/md5-text.html
 - W3Schools for their super-comprehensive HTML and Javascript tutorials and references: http://www.w3schools.com/
 - OSDev Wiki for their page on Text UI: http://wiki.osdev.org/Text_UI
-- Joseph Myers for his javascript implementation of MD5 algorithm: http://www.myersdaily.org/joseph/javascript/md5-text.html
 - Professor E. J. Mastascusa of Bucknell University for his data server implemented in Labview: https://www.facstaff.bucknell.edu/mastascu/eLessonsHTML/EEIndex.html
 - Mozilla Developer Network for the article: https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/Sending_and_Receiving_Binary_Data
+- Stackoverflow for the page: http://stackoverflow.com/questions/55677/how-do-i-get-the-coordinates-of-a-mouse-click-on-a-canvas-element
